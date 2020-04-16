@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Documents\c# test\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\user\Documents\c# test\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Documents\c# test\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\user\Documents\c# test\Facade\Facade\obj\Debug\Facade.pdb

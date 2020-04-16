@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Composite\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Documents\c# test\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\user\Documents\c# test\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Documents\c# test\Composite\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\user\Documents\c# test\Composite\Composite\obj\Debug\Composite.pdb

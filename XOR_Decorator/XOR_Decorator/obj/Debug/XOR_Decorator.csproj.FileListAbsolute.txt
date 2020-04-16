@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\bin\Debug\XOR_Decorator.exe.config
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\bin\Debug\XOR_Decorator.exe
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\bin\Debug\XOR_Decorator.pdb
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\obj\Debug\XOR_Decorator.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\obj\Debug\XOR_Decorator.exe
+C:\Users\user\Documents\c# test\XOR_Decorator\XOR_Decorator\obj\Debug\XOR_Decorator.pdb
